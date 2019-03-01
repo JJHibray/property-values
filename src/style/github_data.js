@@ -4409,6 +4409,6 @@ const githubData = [
 
 
   console.log("hello")
-  console.log(githubData[id]."")
+  console.log(githubData[6].payload.commits[0].message)
 
- // console.log(document.getElementById('email').value); //
+ 
